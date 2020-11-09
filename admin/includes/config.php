@@ -3,7 +3,7 @@
 define('DB_HOST','167.179.68.251');
 define('DB_USER','admin');
 define('DB_PASS','password');
-define('DB_NAME','firstplan');
+define('DB_NAME','test1');
 // Establish database connection.
 try
 {
